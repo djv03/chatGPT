@@ -58,6 +58,12 @@
     cursor: pointer;
 }
 
+.gpt3__navbar-menu_container-links>p>a{
+    /* border: 2px solid red; */
+    color: white;
+    text-decoration: none;
+    color: #FF4820;
+}
 .gpt3__navbar-sign button,
 .gpt3__navbar-menu_container button {
     padding: 0.5rem 1rem;
